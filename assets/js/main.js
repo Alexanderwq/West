@@ -1,4 +1,4 @@
- let places = ["Поклонная гора", "Москва Сити", "Матвеевский лес", "Район раменки"];
+
  
  var placesSlider = new Swiper(".places-slider", {
         slidesPerView: 1.2,
@@ -12,7 +12,7 @@
 
 
 var promoSlider = new Swiper(".promo-slider", {
-        slidesPerView: 1.3,
+        slidesPerView: 1.7,
         centeredSlides: true,
         spaceBetween: 20,
         loop: true,
